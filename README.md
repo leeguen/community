@@ -45,10 +45,17 @@ ADMIN
 
 ## 프로젝트 동작
 - 메인페이지
-
+![image](https://user-images.githubusercontent.com/63235483/194684302-1e344504-5a81-4012-8928-b3c38d10a5cc.png)
 
 - 회원가입
+## 양식 Blank 시
+
+
+
 
 
 - 로그인
+## user
+
+## admin
 
