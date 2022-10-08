@@ -74,3 +74,6 @@ admin
 
 ![image](https://user-images.githubusercontent.com/63235483/194684460-4fd72bfa-16ca-4bb2-a70c-edd76a7f2220.png)
 
+![image](https://user-images.githubusercontent.com/63235483/194684526-4ecbd409-4a78-4cd0-ab51-71df6d499fc0.png)
+
+
